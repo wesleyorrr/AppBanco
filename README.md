@@ -8,4 +8,4 @@
 - [x] [Acessibilidade](https://www.android.com/intl/pt-BR_br/accessibility/)
 
 
-<img src="" width="300" />
+<img src="https://github.com/wesleyorrr/AppBanco/blob/master/app%20itau.jpg" width="300" />
