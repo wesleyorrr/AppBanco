@@ -1,5 +1,5 @@
 # AppBanco
-##Tela similando o banco do Itaú!
+##Tela similando a do banco do Itaú!
 ## Aplicativo em Construção.
 # Tecnologias ultilizadas
 - [x] [Android Studio](https://developer.android.com/studio?hl=pt&gclsrc=aw.ds&gclid=Cj0KCQiAk4aOBhCTARIsAFWFP9GJFuME6UxG4cgkUFzeBFgfa0b1XHhdBN9EPVe4G0To3rPTH6PDaw8aAr80EALw_wcB)
